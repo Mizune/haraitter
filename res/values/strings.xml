@@ -3,5 +3,8 @@
 
     <string name="app_name">FragmentTest2</string>
     <string name="hello_world">Hello world!</string>
+    <string name="twitter_consumer_key">yqnjSo5rkmc5MkVDHBOzzjD7L</string>
+    <string name="twitter_consumer_secret">oiKlsoTgSbSnuZJEv9XHx9AR9Tq339QtFirfyGuJ5vVB0cY9PT</string>
+    
 
 </resources>

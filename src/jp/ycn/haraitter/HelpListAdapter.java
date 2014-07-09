@@ -39,6 +39,7 @@ public class HelpListAdapter extends ArrayAdapter<Data> {
 		// holder.userImageView.setText(item.imgUrl);
 		holder.dateView.setText(item.date + "時間前にhelpCallしました。");
 		holder.userNameView.setText(item.name);
+		// holder.userImageView.setImageBitmap(image);
 
 		return convertView;
 	}

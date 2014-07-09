@@ -2,6 +2,8 @@ package jp.ycn.haraitter;
 
 import java.io.Serializable;
 
+import android.graphics.Bitmap;
+
 public class Data implements Serializable {
 
 	/** シリアルバージョン. */
@@ -12,6 +14,8 @@ public class Data implements Serializable {
 	public String comment;
 
 	public String imgUrl;
+
+	public Bitmap userImageBitmap;
 
 	public String date;
 

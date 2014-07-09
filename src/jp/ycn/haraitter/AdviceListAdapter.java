@@ -38,6 +38,7 @@ public class AdviceListAdapter extends ArrayAdapter<Data> {
 		} else {
 			holder = (ViewHolder) convertView.getTag();
 		}
+
 		holder.userNameView.setText(item.name);
 		holder.commentTextView.setText(item.comment);
 		holder.dateView.setText(item.date);
