@@ -1,10 +1,13 @@
 package jp.ycn.haraitter;
+
 import twitter4j.Twitter;
 import twitter4j.TwitterFactory;
 import twitter4j.auth.AccessToken;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
+
+import com.example.fragmenttest2.R;
 
 public class TwitterUtils {
 

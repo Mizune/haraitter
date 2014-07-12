@@ -12,6 +12,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import com.example.fragmenttest2.R;
+
 public class TwitterOAuthActivity extends Activity {
 
 	private String mCallbackURL;
@@ -26,7 +28,7 @@ public class TwitterOAuthActivity extends Activity {
 		mCallbackURL = getString(R.string.twitter_callback_url);
 		mTwitter = TwitterUtils.getTwitterInstance(this);
 
-		findViewById(R.id.action_start_oauth).setOnClickListener(
+		findViewById(R.id.oauth_button).setOnClickListener(
 				new View.OnClickListener() {
 					@Override
 					public void onClick(View v) {

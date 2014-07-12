@@ -1073,9 +1073,9 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020057;
     }
     public static final class id {
-        public static final int LinearLayout=0x7f050040;
+        public static final int LinearLayout=0x7f050041;
         public static final int RelativeLayout1=0x7f05003c;
-        public static final int SettingLogin=0x7f050045;
+        public static final int SettingLogin=0x7f050046;
         public static final int action_bar=0x7f05001c;
         public static final int action_bar_activity_content=0x7f050015;
         public static final int action_bar_container=0x7f05001b;
@@ -1088,10 +1088,10 @@ containing a value of this type.
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
         public static final int activity_chooser_view_content=0x7f050025;
-        public static final int advice_comment=0x7f050044;
-        public static final int advice_date=0x7f050043;
-        public static final int advice_icon=0x7f050041;
-        public static final int advice_username=0x7f050042;
+        public static final int advice_comment=0x7f050045;
+        public static final int advice_date=0x7f050044;
+        public static final int advice_icon=0x7f050042;
+        public static final int advice_username=0x7f050043;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
         public static final int checkbox=0x7f05002d;
@@ -1105,9 +1105,9 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f050026;
         public static final int expanded_menu=0x7f05002c;
         public static final int helpCall=0x7f05003f;
-        public static final int help_date=0x7f050049;
-        public static final int help_icon=0x7f050047;
-        public static final int help_username=0x7f050048;
+        public static final int help_date=0x7f05004a;
+        public static final int help_icon=0x7f050048;
+        public static final int help_username=0x7f050049;
         public static final int home=0x7f050014;
         public static final int homeAsUp=0x7f050005;
         public static final int icon=0x7f05002a;
@@ -1119,6 +1119,7 @@ containing a value of this type.
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
+        public static final int oauth_button=0x7f050040;
         public static final int pager=0x7f05003d;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
@@ -1141,7 +1142,7 @@ containing a value of this type.
         public static final int strip=0x7f05003e;
         public static final int submit_area=0x7f050039;
         public static final int tabMode=0x7f050002;
-        public static final int timeLine=0x7f050046;
+        public static final int timeLine=0x7f050047;
         public static final int title=0x7f05002b;
         public static final int top_action_bar=0x7f050020;
         public static final int up=0x7f050021;
@@ -1249,6 +1250,7 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
         public static final int app_name=0x7f0a000d;
         public static final int hello_world=0x7f0a000e;
+        public static final int twitter_callback_url=0x7f0a0011;
         public static final int twitter_consumer_key=0x7f0a000f;
         public static final int twitter_consumer_secret=0x7f0a0010;
     }
